@@ -3,7 +3,7 @@
 <!--
 **MarcosJavierLescano/MarcosJavierLescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Soy BI Developer & Data Analyst en Teleperformance ARG donde comencé en 2017 como Telephone Agent ascendiendo a Trainer Developer, luego a Team Leader hasta conseguir mi puesto actual.
+Soy BI Developer & Data Analyst en Teleperformance ARG donde comencé en 2017 como Telephone Agent ascendiendo a Trainer Developer, luego a Team Leader hasta conseguir mi puesto actual como Data Analyst and BI Developer.
 
 Soy proactivo, motivado, apto para el trabajo en equipo y con fuertes habilidades de analisis, organizativas e interpersonales. Siempre buscando aprender nuevas habilidades, asumir responsabilidades y crecer profesionalmente.
 
