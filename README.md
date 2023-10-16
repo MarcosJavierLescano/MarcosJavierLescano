@@ -24,5 +24,5 @@ Soy proactivo, motivado, apto para el trabajo en equipo y con fuertes habilidade
 
 
 ### Para comunicarse conmigo
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-javier-lescano-061b5a21b/)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-javier-lescano/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mjl1091@gmail.com)
